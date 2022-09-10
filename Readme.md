@@ -13,4 +13,4 @@ Capstone 2 - SQL analysis for Bike share
 Tools used: SQLite
 
 
-![Cap2](https://user-images.githubusercontent.com/106800713/189487071-6fe66413-d5fe-4e89-bbf1-75726c789e2c.gif)
+![image](https://user-images.githubusercontent.com/106800713/189487185-5cd10405-e7e4-44ba-920d-4aec9d118722.png)
