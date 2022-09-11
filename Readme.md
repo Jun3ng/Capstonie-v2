@@ -1,4 +1,4 @@
-# Capstone Projects for data analytics work - v2.
+# Capstone Projects for data analytics work - v2 & 3.
 
 **Hi All!!**
 
@@ -23,11 +23,11 @@ How will Weather(humidty) affect the customer behaviour trends.
 
 Tools used: SQLite / MS SQL, MS Powerpoint , MS Excel
 
-Please find attached for the presentation clip  file name "CAPSTONE SQL" 
+Please find attached for the presentation clip  file name "CAPSTONE SQL" and slides on above
 
 -----------------
 
-Capstone 3 - Power BI Data Visualisation Dashboard for Bike share
+Capstone 3 - Power BI Data Visualisation Dashboard for Bay Area Bike share
 
 Tools used: SQLite / MS SQL,MS Excel,Power BI
 
