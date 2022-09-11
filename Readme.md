@@ -16,3 +16,9 @@ Tools used: SQLite
 Capstone 3 - Power BI Data Visualisation Dashboard for Bike share
 
 Tools used: SQL,Mircosoft Excel,Power BI
+
+
+
+
+https://user-images.githubusercontent.com/106800713/189534398-c516f946-8b61-4582-8214-247e25c55878.mp4
+
