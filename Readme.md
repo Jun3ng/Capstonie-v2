@@ -1,4 +1,4 @@
-# Capstone Projects for data analytics work - v2 & 3.
+# Capstone Projects for data analytics work - v2 & v3.
 
 **Hi All!!**
 
