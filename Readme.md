@@ -46,7 +46,7 @@ Using the dataset further visualised the data using Power BI to address the foll
 
 
 
-Please find attached for the presentation clip file name "BI"
+Please find attached for the presentation clip file name "BI" for full walkthrough 
 
 
 
