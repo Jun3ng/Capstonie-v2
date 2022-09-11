@@ -13,3 +13,6 @@ Capstone 2 - SQL analysis for Bike share
 Tools used: SQLite
 
 
+Capstone 3 - Power BI Data Visualisation Dashboard for Bike share
+
+Tools used: SQL,Mircosoft Excel,Power BI
