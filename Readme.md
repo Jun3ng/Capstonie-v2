@@ -19,6 +19,8 @@ Capstone 3 - Power BI Data Visualisation Dashboard for Bike share
 
 Tools used: SQL,Mircosoft Excel,Power BI
 
+![ezgif com-gif-maker (Bi)](https://user-images.githubusercontent.com/106800713/189535769-9902f9f2-e14e-4495-b939-692d018949ea.gif)
+
 
 
 Please find attached for the presentation clip file name "BI"
