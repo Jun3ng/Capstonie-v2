@@ -19,7 +19,17 @@ Capstone 3 - Power BI Data Visualisation Dashboard for Bike share
 
 Tools used: SQL,Mircosoft Excel,Power BI
 
-![ezgif com-gif-maker (Bi)](https://user-images.githubusercontent.com/106800713/189535769-9902f9f2-e14e-4495-b939-692d018949ea.gif)
+Background:
+
+Using the dataset further visualised the data using Power BI to address the following:
+
+- Present all cities performance for detail comparision on its Station Performance & trend it's usage patterns
+- Provide Business recommendation
+
+
+![ezgif com-gif-maker (Bi)](https://user-images.githubusercontent.com/106800713/189535808-a29ac17b-f929-4a13-a915-33da816f36d8.gif)
+
+
 
 
 
