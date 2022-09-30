@@ -1,5 +1,7 @@
 # Capstone Projects for data analytics work - v2 & v3.
 
+--------
+
 **Hi All!!**
 
 **I am June here , interested in getting into a data analyst role.
